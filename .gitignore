@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Operating-system and editor files
+.DS_Store
+*.swp
+*.swo
+
+# Generated simulation and analysis output
+results/
+prepared/
+slurm-*.out
+*.log
+
+# Compiled C artifacts
+*.o
+*.so
+Kuramoto_RWG_Annealed
+Kuramoto_RWG_Annealed_massless
