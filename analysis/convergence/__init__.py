@@ -1,0 +1,1 @@
+"""Convergence-time aggregation routines."""
