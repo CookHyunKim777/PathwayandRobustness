@@ -1,4 +1,4 @@
-# Synchronization Pathways and Robustness in Power Grids
+# Explosive Synchronization in Inertial Kuramoto Models: Determining Resilience in Power Grids
 
 This repository contains the simulation and analysis code associated with the
 manuscript *Explosive Synchronization in Inertial Kuramoto Models: Determining Resilience in Power Grids* by C. H.
