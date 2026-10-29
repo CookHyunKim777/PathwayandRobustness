@@ -1,7 +1,7 @@
 # Synchronization Pathways and Robustness in Power Grids
 
 This repository contains the simulation and analysis code associated with the
-manuscript *Synchronization Pathways and Robustness in Power Grids* by C. H.
+manuscript *Explosive Synchronization in Inertial Kuramoto Models: Determining Resilience in Power Grids* by C. H.
 Kim, J. Kim, S. Park, and B. Kahng.
 
 The code covers synthetic power-grid ensembles, finite-perturbation
